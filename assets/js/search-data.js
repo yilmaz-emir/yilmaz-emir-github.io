@@ -391,16 +391,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-sophia-university-hosted-cm2025-between-september-22-25-2026-where-dr-yilmaz-acted-as-the-local-committee-chair",
-          title: 'Sophia University hosted CM2025 between September 22-25, 2026, where Dr. Yilmaz acted as...',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-sophia-university-hosted-cm2025-between-september-22-25-2026-where-dr-yilmaz-acted-as-the-local-committee-chair",
+          title: 'Sophia University hosted CM2025 between September 22-25, 2026, where Dr. Yilmaz acted as...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
