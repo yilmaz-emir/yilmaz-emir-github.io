@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Sophia University hosted <a href="https://cm2025.jscmr.org/">CM2025</a> between September 22-25, 2026, where Dr. Yilmaz acted as the local committee chair.
