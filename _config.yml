@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Yilmaz Lab @PERG # the website title (if blank, full name will be used instead)
+title: Yilmaz Lab # the website title (if blank, full name will be used instead)
 first_name: Emir
 middle_name:
 last_name: Yılmaz
