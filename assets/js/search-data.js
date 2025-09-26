@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-research",
+  },{id: "nav-people",
+          title: "people",
+          description: "current &amp; past members of our group since 2022",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
+          },
+        },{id: "nav-research",
           title: "research",
           description: "",
           section: "Navigation",
@@ -396,10 +403,12 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "news-our-collaborative-research-with-prof-ichiyanagi-on-the-development-of-an-ammonia-fueled-combustion-engine-has-been-featured-by-sophia-university-s-research-promotion-center-you-can-read-the-full-press-release-here-link",
-          title: 'Our collaborative research with Prof. Ichiyanagi on the development of an ammonia-fueled combustion...',
+            },},{id: "news-press-release-from-our-collaborative-work",
+          title: 'press release from our collaborative work',
           description: "",
-          section: "News",},{id: "news-sophia-university-hosted-cm2025-between-september-22-25-2026-where-dr-yilmaz-acted-as-the-local-committee-chair",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "news-sophia-university-hosted-cm2025-between-september-22-25-2026-where-dr-yilmaz-acted-as-the-local-committee-chair",
           title: 'Sophia University hosted CM2025 between September 22-25, 2026, where Dr. Yilmaz acted as...',
           description: "",
           section: "News",},{id: "projects-project-1",
