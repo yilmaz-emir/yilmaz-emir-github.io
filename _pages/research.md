@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: research
 nav: true
-nav_order: 7
+nav_order: 3
 ---
 
 ### We are actively looking for gradaute students.  
