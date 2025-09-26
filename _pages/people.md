@@ -9,7 +9,6 @@ nav_order: 2
 profiles:
   - align: right
     image: fy24yilmazlab.png
-    content: From left to right: Yanagihara(B4), Nakajima(M1), Okamoto(B4), Omi(B4)
     image_circular: false
     more_info: >
       <p>FY24 Yilmaz lab graduation</p>
