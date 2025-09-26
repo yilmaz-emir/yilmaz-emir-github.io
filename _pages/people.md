@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 
 profiles:
+
   - align: right
     image: fy24yilmazlab.png
     image_circular: false
