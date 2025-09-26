@@ -401,8 +401,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-sophia-university-hosted-cm2025-between-september-22-25-2026-where-dr-yilmaz-acted-as-the-local-committee-chair",
-          title: 'Sophia University hosted CM2025 between September 22-25, 2026, where Dr. Yilmaz acted as...',
+            },},{id: "news-sophia-university-hosted-cm2025-between-september-22-25-2026-i-acted-as-the-local-committee-chair",
+          title: 'Sophia University hosted CM2025 between September 22-25, 2026. I acted as the local...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
