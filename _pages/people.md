@@ -9,7 +9,7 @@ nav_order: 2
 profiles:
   - align: right
     image: fy24.jpg
-    content: ""
+    content: 
     image_circular: false
     more_info: >
       <p>FY24 PERG lab photo</p>
