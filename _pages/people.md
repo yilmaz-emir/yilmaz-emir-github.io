@@ -9,10 +9,11 @@ nav_order: 2
 profiles:
   - align: right
     image: fy24.jpg
-    content: We hosted a visiting scholar, <a href="https://www.ukm.my/jknp/wp-content/uploads/2021/08/MJG.pdf">Prof. Mariyam Ghazali</a> from <a href="https://www.ukm.my/portalukm/institute/">UKM</a>.
+    content: ""
     image_circular: false
     more_info: >
       <p>FY24 PERG lab photo</p>
+			We hosted a visiting scholar, <a href="https://www.ukm.my/jknp/wp-content/uploads/2021/08/MJG.pdf">Prof. Mariyam Ghazali</a> from <a href="https://www.ukm.my/portalukm/institute/">UKM</a>.
 
   - align: right
     image: fy24yilmazlab.png
