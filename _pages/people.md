@@ -7,16 +7,14 @@ nav: true
 nav_order: 2
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
   - align: right
     image: fy24.jpg
     content: >
       <p>M2: 3</p>
       <p>M1: 3</p>
       <p>B1: 7</p>
-      <p>with addition of visiting scholar <a href="https://www.ukm.my/jkmp/wp-content/uploads/2021/08/MJG.pdf">Prof. Mariyam Ghazali</a> from <a href="https://www.ukm.my/portalukm/institute/">UKM</a>.
-    image_circular: false # crops the image to make it circular
+      with addition of visiting scholar <a href="https://www.ukm.my/jknp/wp-content/uploads/2021/08/MJG.pdf">Prof. Mariyam Ghazali</a> from <a href="https://www.ukm.my/portalukm/institute/">UKM</a>.
+    image_circular: false
     more_info: >
       <p>FY24 PERG lab photo</p>
 
