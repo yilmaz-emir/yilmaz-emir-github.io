@@ -7,7 +7,7 @@ subtitle: Anatolian. An alumnus from <a href="https://www.sabanciuniv.edu/en">Sa
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profpic.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #  <p>Krupp Hall, Room 327</p>
