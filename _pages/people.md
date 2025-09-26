@@ -8,18 +8,17 @@ nav_order: 2
 
 profiles:
   - align: right
-    image: fy24.jpg
-    content: 
-    image_circular: false
-    more_info: >
-      <p>FY24 PERG lab photo</p>
-
-  - align: right
     image: fy24yilmazlab.png
-    content: 
+    content: From left to right: Yanagihara(B4), Nakajima(M1), Okamoto(B4), Omi(B4)
     image_circular: false
     more_info: >
       <p>FY24 Yilmaz lab graduation</p>
+
+- align: right
+    image: fy24.jpg
+    image_circular: false
+    more_info: >
+      <p>FY24 PERG lab photo</p>
 
   - align: left
     image: fy23.png
