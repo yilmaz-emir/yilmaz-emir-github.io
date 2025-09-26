@@ -469,13 +469,6 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0003-3173-1853", "_blank");
         },
       },{
-        id: 'social-researchgate',
-        title: 'ResearchGate',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.researchgate.net/profile/Emir_Yilmaz2/", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
