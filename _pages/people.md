@@ -4,7 +4,7 @@ permalink: /people/
 title: people
 description: current & past members of our group since 2022
 nav: true
-nav_order: 7
+nav_order: 2
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
