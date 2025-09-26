@@ -459,7 +459,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/emir-yilmaz-4107/", "_blank");
+          window.open("https://www.linkedin.com/in/emir-yilmaz-4107", "_blank");
         },
       },{
         id: 'social-orcid',
@@ -467,6 +467,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://orcid.org/0000-0003-3173-1853", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Emir_Yilmaz2/", "_blank");
         },
       },{
         id: 'social-scholar',
