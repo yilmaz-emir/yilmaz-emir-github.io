@@ -9,26 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-teaching",
-          title: "teaching",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
-        },{id: "nav-research",
+  },{id: "nav-research",
           title: "research",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
+          },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -398,13 +391,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-announcement-3",
+          title: 'Announcement_3',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/announcement_3/";
+            },},{id: "news-our-collaborative-research-with-prof-ichiyanagi-on-the-development-of-an-ammonia-fueled-combustion-engine-has-been-featured-by-sophia-university-s-research-promotion-center-you-can-read-the-full-press-release-here-link",
+          title: 'Our collaborative research with Prof. Ichiyanagi on the development of an ammonia-fueled combustion...',
           description: "",
           section: "News",},{id: "news-sophia-university-hosted-cm2025-between-september-22-25-2026-where-dr-yilmaz-acted-as-the-local-committee-chair",
           title: 'Sophia University hosted CM2025 between September 22-25, 2026, where Dr. Yilmaz acted as...',
@@ -467,6 +460,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://orcid.org/0000-0003-3173-1853", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Emir_Yilmaz2/", "_blank");
         },
       },{
         id: 'social-scholar',
