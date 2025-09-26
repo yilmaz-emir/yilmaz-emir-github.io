@@ -13,6 +13,7 @@ profiles:
     image_circular: false
     more_info: >
       <p>FY24 PERG lab photo</p>
+
   - align: right
     image: fy24yilmazlab.png
     content: 
