@@ -9,12 +9,12 @@ related_posts: false
 Our collaborative research with Prof. Ichiyanagi on the development of an ammonia-fueled combustion engine has been featured by Sophia University's Research Promotion Center.  You can read the full press release here: <a href="https://www.sophia.ac.jp/eng/article/news/release/release20240305/">link</a>.
 
 ---
+<!-- This section is commented out and won’t be rendered -->
+<!--  #### Hipster list
 
- ## #### Hipster list
-
- ## <ul>
- ##     <li>brunch</li>
- ##     <li>fixie</li>
+ <ul>
+   <li>brunch</li>
+   <li>fixie</li>
  ##     <li>raybans</li>
  ##     <li>messenger bag</li>
  ## </ul>
@@ -29,3 +29,4 @@ Our collaborative research with Prof. Ichiyanagi on the development of an ammoni
  ## > —Anais Nin
 
  ## Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic  ## Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+-->
