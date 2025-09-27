@@ -14,11 +14,10 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
        <div style="text-align: center;">
-       <p>FY24 Yilmaz lab.</p>
+       <p>Graduation of FY24 Yilmaz lab.</p>
        </div>
   - align: right
     image: fy24.jpg
-    content: fy24.md
     image_circular: false # crops the image to make it circular
     more_info: >
        <div style="text-align: center;">
@@ -26,7 +25,6 @@ profiles:
        </div>
   - align: left
     image: fy23.png
-    content: fy23.md
     image_circular: false # crops the image to make it circular
     more_info: >
        <div style="text-align: center;">
@@ -34,7 +32,6 @@ profiles:
        </div>
   - align: right
     image: fy22.png
-    content: fy22.md
     image_circular: false # crops the image to make it circular
     more_info: >
        <div style="text-align: center;">
