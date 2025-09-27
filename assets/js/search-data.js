@@ -403,8 +403,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-our-research-group-will-present-three-papers-the-upcoming-lem21-conference-scheduled-for-december-1-4-2025-in-okinawa-japan",
-          title: 'Our research group will present three papers the upcoming LEM21 conference scheduled for...',
+            },},{id: "news-our-research-group-will-present-three-papers-at-the-upcoming-lem21-conference-scheduled-for-december-1-4-2025-in-okinawa-japan",
+          title: 'Our research group will present three papers at the upcoming LEM21 conference scheduled...',
           description: "",
           section: "News",},{id: "news-sophia-university-hosted-cm2025-between-september-22-25-2026-i-acted-as-the-local-committee-chair",
           title: 'Sophia University hosted CM2025 between September 22-25, 2026. I acted as the local...',
