@@ -27,7 +27,7 @@ profiles:
        </div>
   - align: left
     image: fy23.png
-    content: about_einstein.md
+    content: fy23.md
     image_circular: false # crops the image to make it circular
     more_info: >
        <div style="text-align: center;">
@@ -35,7 +35,7 @@ profiles:
        </div>
   - align: right
     image: fy22.png
-    content: about_einstein.md
+    content: fy22.md
     image_circular: false # crops the image to make it circular
     more_info: >
        <div style="text-align: center;">
