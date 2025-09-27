@@ -391,15 +391,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-page-is-up-amp-amp-alive",
-          title: 'Our page is up &amp;amp;amp; alive!',
-          description: "",
-          section: "News",},{id: "news-press-release-from-our-collaborative-work",
+            },},{id: "news-press-release-from-our-collaborative-work",
           title: 'press release from our collaborative work',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-sophia-university-hosted-cm2025-between-september-22-25-2026-i-acted-as-the-local-committee-chair",
+            },},{id: "news-our-research-group-will-present-three-papers-the-upcoming-lem21-conference-scheduled-for-december-1-4-2025-in-okinawa-japan",
+          title: 'Our research group will present three papers the upcoming LEM21 conference scheduled for...',
+          description: "",
+          section: "News",},{id: "news-sophia-university-hosted-cm2025-between-september-22-25-2026-i-acted-as-the-local-committee-chair",
           title: 'Sophia University hosted CM2025 between September 22-25, 2026. I acted as the local...',
           description: "",
           section: "News",},{id: "projects-project-1",
