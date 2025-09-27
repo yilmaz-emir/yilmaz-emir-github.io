@@ -20,7 +20,9 @@ profiles:
     content: fy24.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Group photo for FY24</p>
+    <div style="text-align: center;">
+       <p>Group photo for FY24</p>
+    </div>
   - align: left
     image: fy23.png
     content: about_einstein.md
