@@ -2,33 +2,37 @@
 layout: profiles
 permalink: /people/
 title: people
-description: current & past members of our group since 2022
+description: members of the lab or group
 nav: true
-nav_order: 2
+nav_order: 7
 
 profiles:
-
+  # if you want to include more than one profile, just replicate the following block
+  # and create one content file for each profile inside _pages/
   - align: right
     image: fy24yilmazlab.png
-    image_circular: false
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
     more_info: >
-      <p>FY24 Yilmaz lab graduation</p>
-
-- align: right
+      <p>Graduation day for Yilmaz lab</p>
+  - align: right
     image: fy24.jpg
-    image_circular: false
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
     more_info: >
-      <p>FY24 PERG lab photo</p>
-
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
   - align: left
     image: fy23.png
-    image_circular: false
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
     more_info: >
-      <p>FY23 PERG group photo</p>
-
+      <p>Group photo for FY23</p>
   - align: right
     image: fy22.png
-    image_circular: false
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
     more_info: >
-      <p>FY22 PERG group photo</p>
+      <p>Group photo for FY22</p>
 ---
