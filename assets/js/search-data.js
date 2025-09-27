@@ -391,12 +391,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-announcement-3",
-          title: 'Announcement_3',
+            },},{id: "news-our-page-is-up-amp-amp-alive",
+          title: 'Our page is up &amp;amp;amp; alive!',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
-            },},{id: "news-press-release-from-our-collaborative-work",
+          section: "News",},{id: "news-press-release-from-our-collaborative-work",
           title: 'press release from our collaborative work',
           description: "",
           section: "News",handler: () => {
