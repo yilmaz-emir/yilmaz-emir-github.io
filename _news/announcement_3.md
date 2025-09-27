@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our research group will present three papers the upcoming <a href="https://scoop-japan.com/kaigi/lem21_2025/">LEM21</a> conference scheduled for December 1-4, 2025 in Okinawa,Japan.
+Our research group will present three papers at the upcoming <a href="https://scoop-japan.com/kaigi/lem21_2025/">LEM21</a> conference scheduled for December 1-4, 2025 in Okinawa,Japan.
