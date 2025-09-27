@@ -17,7 +17,7 @@ profiles:
       <p>Graduation day for Yilmaz lab</p>
   - align: right
     image: fy24.jpg
-    content: about_einstein.md
+    content: fy24.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Group photo for FY24</p>
