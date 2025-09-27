@@ -14,7 +14,9 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Graduation day for Yilmaz lab</p>
+       <div style="text-align: center;">
+       <p>FY24 Yilmaz lab.</p>
+       </div>
   - align: right
     image: fy24.jpg
     content: fy24.md
@@ -28,11 +30,15 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Group photo for FY23</p>
+       <div style="text-align: center;">
+       <p>Group photo for FY23</p>
+       </div>
   - align: right
     image: fy22.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Group photo for FY22</p>
+       <div style="text-align: center;">
+       <p>Group photo for FY22</p>
+       </div>
 ---
